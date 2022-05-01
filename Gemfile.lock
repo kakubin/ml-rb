@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rice (4.0.3)
+    torch-rb (0.10.1)
+      rice (>= 4.0.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  torch-rb
+
+RUBY VERSION
+   ruby 3.1.0p0
+
+BUNDLED WITH
+   2.3.3
